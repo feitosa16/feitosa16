@@ -1,4 +1,4 @@
-# Olá &#128075; Me chame de Helo
+# Olá &#128075; me chamo Helo
 
 > Aqui você poderá encontrar os repositórios que crio para armazenar meus projetos de estudo. Assim, além de acompanhar meu crescimento com a programação, talvez de alguma forma também, possa até te ajudar! &#128516;
 

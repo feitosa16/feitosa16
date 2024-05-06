@@ -7,6 +7,9 @@
 * &#128218; Análise e Deselvolvimento de Sistemas - UNICAMP
 * &#128640; Vice-Presidente - CDI
 * &#129327; De repente uma entusiasta por TI
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feitosa16)](https://github.com/feitosa16/github-readme-stats)
+
 ## Skills
 <div style="display: inline_block">
    <img align="center" height="75" width="75" src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png">

@@ -5,7 +5,6 @@
 ## Sobre mim 
 * &#128421; Analista de Produtos Digitais - Inspirali
 * &#128218; Análise e Deselvolvimento de Sistemas - UNICAMP
-* &#128640; Vice-Presidente - CDI
 * &#129327; De repente uma entusiasta por TI
 
 <div>
